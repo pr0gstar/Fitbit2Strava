@@ -1,0 +1,1495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"refr",
+				"refreshing"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"headerback",
+				"headerBackTitle?"
+			],
+			[
+				"ti",
+				"headerTitle?"
+			],
+			[
+				"header",
+				"headerBackTitle?"
+			],
+			[
+				"back",
+				"headerBackTitle?"
+			],
+			[
+				"dev",
+				"getDeviceType"
+			],
+			[
+				"react",
+				"react-native"
+			],
+			[
+				"Sca",
+				"scannerView"
+			],
+			[
+				"line",
+				"line-clamp-1"
+			],
+			[
+				"line-clamp-",
+				"line-clamp-3"
+			],
+			[
+				"grid",
+				"grid-cols-2"
+			],
+			[
+				"grid-cols",
+				"grid-cols-4"
+			],
+			[
+				"bg-gray",
+				"bg-gray-500"
+			],
+			[
+				"op",
+				"opacity-90"
+			],
+			[
+				"w-",
+				"w-96"
+			],
+			[
+				"max-w-",
+				"max-w-md"
+			],
+			[
+				"max-w",
+				"max-w-lg"
+			],
+			[
+				"line-cl",
+				"line-clamp-3"
+			],
+			[
+				"clip",
+				"text-clip"
+			],
+			[
+				"p-",
+				"p-4"
+			],
+			[
+				"gap",
+				"gap-1"
+			],
+			[
+				"border",
+				"border-2"
+			],
+			[
+				"rounde",
+				"rounded-lg"
+			],
+			[
+				"duration-",
+				"duration-200"
+			],
+			[
+				"border-b-",
+				"border-b-2"
+			],
+			[
+				"duratio",
+				"duration-100"
+			],
+			[
+				"bg-",
+				"bg-black"
+			],
+			[
+				"justif",
+				"justify-center"
+			],
+			[
+				"py",
+				"py-6"
+			],
+			[
+				"justi",
+				"justify-between"
+			],
+			[
+				"img",
+				"imgSrcResource"
+			],
+			[
+				"imgSrc",
+				"imgSrcResourceCache"
+			],
+			[
+				"cache",
+				"cacheTime"
+			],
+			[
+				"for",
+				"fromEntries"
+			],
+			[
+				"useRe",
+				"useRef"
+			],
+			[
+				"Pokemon",
+				"PokemonCacheProvider"
+			],
+			[
+				"fun",
+				"Function"
+			],
+			[
+				"po",
+				"pokemonResource"
+			],
+			[
+				"pokemon",
+				"pokemonResource"
+			],
+			[
+				"setPokem",
+				"setPokemonResource"
+			],
+			[
+				"POkem",
+				"PokemonInfoFallback"
+			],
+			[
+				"PokemonIn",
+				"PokemonInfoFallback"
+			],
+			[
+				"Pokem",
+				"PokemonErrorBoundary"
+			],
+			[
+				"pok",
+				"PokemonErrorBoundary"
+			],
+			[
+				"pokem",
+				"pokemonError"
+			],
+			[
+				"hand",
+				"handleSuccess"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"tocont",
+				"toHaveTextContent"
+			],
+			[
+				"getBy",
+				"getByText"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"onc",
+				"onClick?"
+			],
+			[
+				"init",
+				"initialTheme?"
+			],
+			[
+				"The",
+				"ThemeProvider>"
+			],
+			[
+				"fakepositi",
+				"fakeposition.coords.latitude"
+			],
+			[
+				"toBeIN",
+				"toBeInTheDocument"
+			],
+			[
+				"getby",
+				"getByText"
+			],
+			[
+				"getCurrent",
+				"getCurrentPosition"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"rese",
+				"resetHandlers"
+			],
+			[
+				"getByRo",
+				"getByRole"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"toBein",
+				"toBeInTheDocument"
+			],
+			[
+				"wait",
+				"waitForElementToBeRemoved"
+			],
+			[
+				"JSON",
+				"JSON.parse("
+			],
+			[
+				"build",
+				"buildLoginForm()"
+			],
+			[
+				"tohavebe",
+				"toHaveBeenCalledTimes"
+			],
+			[
+				"toHaveb",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"handle",
+				"handleSubmit"
+			],
+			[
+				"submitt",
+				"submittedData."
+			],
+			[
+				"onsub",
+				"onsub submitted"
+			],
+			[
+				"su",
+				"onSubmit"
+			],
+			[
+				"submit",
+				"submittedData"
+			],
+			[
+				"submi",
+				"submittedData = data)"
+			],
+			[
+				"pass",
+				"password: 'test'"
+			],
+			[
+				"get",
+				"getByText"
+			],
+			[
+				"import",
+				"import {"
+			],
+			[
+				"eve",
+				"fireEvent"
+			],
+			[
+				"update",
+				"updateGrid"
+			],
+			[
+				"initi",
+				"initialGrid"
+			],
+			[
+				"atom",
+				"atomFamily"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"with",
+				"withStateSlice"
+			],
+			[
+				"Cell",
+				"CellImpl"
+			],
+			[
+				"Dog",
+				"DogProvider"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"swit",
+				"switch\tswitch"
+			],
+			[
+				"dog",
+				"newDogName"
+			],
+			[
+				"AppD",
+				"AppDispatchProvider"
+			],
+			[
+				"virtu",
+				"rowVirtualizer"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"prev",
+				"prevProps"
+			],
+			[
+				"Nam",
+				"NameInput"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"use",
+				"useEffect"
+			],
+			[
+				"onm",
+				"onMouseEnter?"
+			],
+			[
+				"onM",
+				"onMouseEnter?"
+			],
+			[
+				"load",
+				"loadGlobe"
+			],
+			[
+				"blue",
+				"blue6"
+			],
+			[
+				"toggle",
+				"toggleReducer"
+			],
+			[
+				"Tog",
+				"ToggleContext"
+			],
+			[
+				"dis",
+				"displayName?"
+			],
+			[
+				"Toggle",
+				"ToggleContext"
+			],
+			[
+				"Clo",
+				"cloneElement"
+			],
+			[
+				"re",
+				"rejected"
+			],
+			[
+				"scrollto",
+				"scrollToBottom"
+			],
+			[
+				"scol",
+				"scrollTo"
+			],
+			[
+				"PokemonCo",
+				"PokemonCacheProvidder"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"swi",
+				"switch\tswitch"
+			],
+			[
+				"asy",
+				"asyncCallback"
+			],
+			[
+				"functi",
+				"Function"
+			],
+			[
+				"sw",
+				"Switch"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"case",
+				"CameraRoll.saveToCameraRoll"
+			],
+			[
+				"poke",
+				"pokemonName"
+			],
+			[
+				"res",
+				"onReset?"
+			],
+			[
+				"fo",
+				"formData"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"useLO",
+				"useLoaderData"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"desc",
+				"descriptio"
+			],
+			[
+				"defa",
+				"defaultValue"
+			],
+			[
+				"defau",
+				"defaultValue"
+			],
+			[
+				"de",
+				"deserialize"
+			],
+			[
+				"default",
+				"defaultValue"
+			],
+			[
+				"us",
+				"useEffect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git brach",
+				"Git: Change Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git branch",
+				"Git: New Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git bran",
+				"Git: New Branch"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git fet",
+				"Git: Fetch"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cop",
+				"Copilot: Check Status"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"g pus",
+				"Git: Push"
+			],
+			[
+				"gaa",
+				"Git: Add All"
+			],
+			[
+				"pack ",
+				"Package Control: List Packages"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Add All"
+			],
+			[
+				"pack lis",
+				"Package Control: Install Package"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"pref tail",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"color",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tailwi",
+				"Preferences: Tailwind-order Key Bindings – User"
+			],
+			[
+				"taildin",
+				"Preferences: Tailwind-order Key Bindings – Default"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"color cust",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"poack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"color cus",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack se",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"ack",
+				"Package Control: List Packages"
+			],
+			[
+				"import",
+				"Import Helper: Insert import"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"impo",
+				"Import Helper: Insert import"
+			],
+			[
+				"im",
+				"Import Helper: Insert import"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"cust",
+				"UI: Customize Theme"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"rain",
+				"RainbowBrackets: Setup Plugin"
+			],
+			[
+				"rainbow",
+				"RainbowBrackets: Clear Rainbow"
+			],
+			[
+				"make",
+				"RainbowBrackets: Make Rainbow"
+			],
+			[
+				"pack ean",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"pack dias",
+				"Package Control: Disable Package"
+			],
+			[
+				"term pa",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term pan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				" term pa",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Colored ",
+				"Colored Comments: Override Current Color Scheme"
+			],
+			[
+				"Commen",
+				"Colored Comments: Settings"
+			],
+			[
+				"colored",
+				"Colored Comments: Settings"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sub",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"su",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"pack in ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"panel ",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi pan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term ca",
+				"Terminus: Close All"
+			],
+			[
+				"npm ",
+				"npm: List Installed Packages"
+			],
+			[
+				"npm in",
+				"npm: Install Package"
+			],
+			[
+				"lsp toggle",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"lsp togg",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"lsp ",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"npm",
+				"npm: Install Package"
+			],
+			[
+				"np",
+				"npm: Install Package"
+			],
+			[
+				"termcl",
+				"Terminus: Close All"
+			],
+			[
+				"dart",
+				"Dart: Format"
+			],
+			[
+				"tem pan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term cl",
+				"Terminus: Close All"
+			],
+			[
+				"ter pan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ter cl",
+				"Terminus: Close All"
+			],
+			[
+				"lsp code",
+				"LSP: Run Code Action"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"term ",
+				"Terminus: Close All"
+			],
+			[
+				"pan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ter oan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"preview",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"MarkdownEditing: Open Home Page"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term tab",
+				"Terminus: Maximize to Tab"
+			],
+			[
+				"packa dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"upload",
+				"Sync Settings: Upload"
+			],
+			[
+				"jspt",
+				"Preferences: JsPrettier Settings - Side-by-Side"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - Side-by-Side"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"pretter",
+				"JsPrettier: Format Code"
+			],
+			[
+				"sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"panel",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"git stash",
+				"Git: Stash Changes"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Quick Commit (repo)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 432.0,
+		"history":
+		[
+			"yarn build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/christoph.planken/Documents/private/Fitbit2Strava"
+	],
+	"file_history":
+	[
+		"/Users/christoph.planken/Documents/lock-book-dev-proxy/lock-book-docu-api-2.0/terraform/backend.conf",
+		"/Users/christoph.planken/Documents/lock-book-dev-proxy/lock-book-docu-api-2.0/terraform/modules/rds/main.tf",
+		"/Users/christoph.planken/Documents/lock-book-dev-proxy/lock-book-docu-api-2.0/terraform/modules/rds/variables.tf",
+		"/Users/christoph.planken/Documents/lock-book-dev-proxy/lock-book-docu-api-2.0/terraform/environment/database.tf",
+		"/Users/christoph.planken/.dotfiles/zsh/.zshrc",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/package.json",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/AndroidManifest.xml",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/util/util-functions.helper.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/store/entities/actions.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/store/create-store.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/localization/en.json",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/buildings/buildings.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/components/abs-scrollview.component.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/localization/de.json",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/navigation/side-navigation.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/navigation/side-menu.button.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/components/menu-list.component.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/buildings/buildings.viewmodel.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/documentations/list-documentations.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/documentations/list-documentations.viewmodel.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/articles/product-list.modal.tsx",
+		"/Users/christoph.planken/Desktop/retool (1).pub",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/.env.dist",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/store/offline.actions.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/attachments/create-attachment-menu.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/.env",
+		"/Users/christoph.planken/Desktop/retool.pub",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/ios/Podfile.lock",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/articles/add-product.modal.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/documentations/documentation-scanner-product-list.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/navigation/main-stack.navigation-types.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/buildings/buildings-card.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/roofs/roofs-card.component.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/navigation/main-stack.navigation.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/navigation/documentation-overview-tab.navigtion.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/components/product-list-item.component.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/roofs/roofs.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/roofs/roofs-card-content.component.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/roofs/roofs.viewmodel.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/documentations/documentation-card.component.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/documentations/documentation-tab.view.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/redux-thunk/lib/index.js",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/src",
+		"/Users/christoph.planken/.zshrc",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/node_modules/react-native-simple-dialogs/index.d.ts",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/tsconfig.json",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/src/container/authentication/LoginScreen.tsx",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/package.json",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/gradle.properties",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/sentry.properties",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/settings.gradle",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/ScannerViewManager.java",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/build.gradle",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/ScannerView.kt",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/src/components/Scanner.tsx",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/MainApplication.java",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/env.ts",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/build.gradle",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/MainActivity.java",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/main/AndroidManifest.xml",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/yarn.lock",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/debug/java/de/abssafety/docu/ReactNativeFlipper.java",
+		"/Users/christoph.planken/Documents/newsApp/new/lock-book-docu-app/android/app/src/debug/java/com/lockbookdocuapp/ReactNativeFlipper.java",
+		"/Users/christoph.planken/Documents/newsApp/lock-book-docu-app/android/app/src/debug/java/de/abssafety/docu/ReactNativeFlipper.java",
+		"/Users/christoph.planken/Documents/newsApp/lock-book-docu-app/ios/Podfile",
+		"/Users/christoph.planken/Documents/newsApp/lock-book-docu-app/android/app/src/main/res/values/strings.xml",
+		"/Users/christoph.planken/Documents/newsApp/lock-book-docu-app/android/settings.gradle",
+		"/Users/christoph.planken/Documents/newsApp/lock-book-docu-app/package.json",
+		"/Users/christoph.planken/Documents/newsApp/lock-book-docu-app/app.json",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/components/Scanner.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/ScannerViewManager.java",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/build.gradle",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/Types.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/build.gradle",
+		"/Users/christoph.planken/Library/Application Support/Sublime Text/Packages/TodoReview/TodoReview.sublime-settings",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/container/documentation/DocumentationScanner.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/ios/CortexDecoderLibrary.h",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/ios/Pods/boost-for-react-native/boost/endian/arithmetic.hpp",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/env.ts",
+		"/Users/christoph.planken/.dotfiles/git/.gitconfig",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/.github/workflows/check-package-versions.yml",
+		"/Users/christoph.planken/Documents/lock-book-dev-proxy/lock-book-auth-api/README.md",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/settings.gradle",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/ScannerView.kt",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/container/documentation/Products.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/store/appSettings/reducers.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/store/index.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/components/AttachmentFileCard.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/ios/Podfile",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/expo-modules-core/build/requireNativeModule.js",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/yarn.lock",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/metro.config.js",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/babel.config.js",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/app.json",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/.bundle/config",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.js",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/react-native/Libraries/Components/DrawerAndroid/DrawerLayoutAndroid.js",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/react-native/Libraries/Image/Image.js",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/ReactNativeFlipper.java",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/.gitignore",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/ios/Gemfile",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/gradlew",
+		"/Users/christoph.planken/Documents/LockBookDocuAppNew/package.json",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/java/de/abssafety/docu/generated/BasePackageList.java-old",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/debug/java/de/abssafety/docu/ReactNativeFlipper.java",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/react-native-gradle-plugin/src/main/kotlin/com/facebook/react/tasks/BundleHermesCTask.kt",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/gradle.properties",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/sentry.properties",
+		"/Users/christoph.planken/Documents/test/lock-book-docu-app/android/sentry.properties",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/test.json",
+		"/Users/christoph.planken/.ssh/known_hosts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android-new/app/build.gradle",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android-new/build.gradle",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android-old/build.gradle",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android-old/gradle.properties",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/decodeAppState.mjs",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/res/values/strings.xml",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/release/java/com/defaultreactnativeproject/ReactNativeFlipper.java",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/java/com/defaultreactnativeproject/MainApplication.java",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/main/java/com/defaultreactnativeproject/MainActivity.java",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/android/app/src/debug/java/com/defaultreactnativeproject/ReactNativeFlipper.java",
+		"/Users/christoph.planken/.bashrc",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/App.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/src/util/translations.tsx",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/@sentry/react-native/dist/js/sdk.d.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/node_modules/@sentry/react-native/dist/js/index.d.ts",
+		"/Users/christoph.planken/Documents/lock-book-docu-app/App.tsx"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 370.0
+	},
+	"output.dart.config.check":
+	{
+		"height": 151.0
+	},
+	"output.diagnostics":
+	{
+		"height": 200.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 265.0
+	},
+	"output.find_results":
+	{
+		"height": 151.0
+	},
+	"output.git":
+	{
+		"height": 218.0
+	},
+	"output.language servers":
+	{
+		"height": 371.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 316.0
+	},
+	"output.textarea":
+	{
+		"height": 275.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Fitbit2Strava.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"androidman",
+				"android/app/src/main/AndroidManifest.xml"
+			],
+			[
+				"en.",
+				"src/localization/en.json"
+			],
+			[
+				"menu",
+				"src/components/menu-list.component.tsx"
+			],
+			[
+				"create",
+				"src/store/create-store.ts"
+			],
+			[
+				"en.json",
+				"src/localization/en.json"
+			],
+			[
+				"de.json",
+				"src/localization/de.json"
+			],
+			[
+				"offline",
+				"src/store/offline.actions.ts"
+			],
+			[
+				"absdia",
+				"src/components/AbsDialog.tsx"
+			],
+			[
+				"login",
+				"src/container/authentication/LoginScreen.tsx"
+			],
+			[
+				"absdial",
+				"src/components/AbsDialog.tsx"
+			],
+			[
+				"AbsDialog",
+				"src/components/AbsDialog.tsx"
+			],
+			[
+				"loginscree",
+				"src/container/authentication/LoginScreen.tsx"
+			],
+			[
+				"scanner",
+				"src/components/Scanner.tsx"
+			],
+			[
+				"requirena",
+				"node_modules/expo-modules-core/build/requireNativeModule.js"
+			],
+			[
+				"attachmen",
+				"src/components/AttachmentFileCard.tsx"
+			],
+			[
+				"05.js",
+				"src/exercise/05.js"
+			],
+			[
+				"01.js",
+				"src/exercise/01.js"
+			],
+			[
+				"02.js",
+				"src/exercise/02.js"
+			],
+			[
+				"08.m",
+				"src/__tests__/exercise/08.md"
+			],
+			[
+				"08.",
+				"src/__tests__/exercise/08.js"
+			],
+			[
+				"test-util",
+				"src/test/test-utils.js"
+			],
+			[
+				"deploy",
+				"scripts/deploy.sh"
+			],
+			[
+				"usemainte",
+				"apps/frontend/src/app/components/Maintenance/MaintenanceTable/UserMaintenanceTable.tsx"
+			],
+			[
+				"new",
+				"app/routes/admin/new.tsx"
+			],
+			[
+				"",
+				"app/routes/admin/new.tsx"
+			],
+			[
+				"post.server",
+				"app/models/post.server.ts"
+			],
+			[
+				"settingspa",
+				"src/pages/SettingsPage.tsx"
+			],
+			[
+				"detailpage",
+				"src/pages/UserPages/maintenance/MaintenanceDetailsPage.tsx"
+			],
+			[
+				"MaintenanceTable",
+				"src/components/Maintenance/MaintenanceTable.tsx"
+			],
+			[
+				"MaintenanceDetailsPage",
+				"src/pages/UserPages/maintenance/MaintenanceDetailsPage.tsx"
+			],
+			[
+				"MaintenanceFallProtectionForm",
+				"src/components/Maintenance/MaintenanceFallProtectionForm.tsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
